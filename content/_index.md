@@ -14,10 +14,10 @@ Learn more at the official Meshtastic website.
 {{% /blocks/lead %}}
 
 {{% blocks/section %}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/getting-started/">
+<a class="btn btn-lg btn-light-bg-subtle me-3 mb-4" href="/docs/getting-started/">
   Get connected <i class="fas fa-tower-cell ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="/docs/hardware/">
+<a class="btn btn-lg btn-light-bg-subtle me-3 mb-4" href="/docs/hardware/">
   Build the mesh <i class="fas fa-book ms-2"></i>
 </a>
 {{% /blocks/section %}}
