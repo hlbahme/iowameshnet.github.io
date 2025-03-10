@@ -15,10 +15,10 @@ Learn more at the official Meshtastic website.
 
 {{% blocks/section %}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/getting-started/">
-  Join Iowa Mesh <i class="fas fa-tower-cell ms-2"></i>
+  Get connected <i class="fas fa-tower-cell ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="/docs/hardware/">
-  Learn More <i class="fab fa-book ms-2 "></i>
+  Build the mesh <i class="fas fa-book ms-2"></i>
 </a>
 {{% /blocks/section %}}
 
