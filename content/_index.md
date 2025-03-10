@@ -13,15 +13,19 @@ Meshtastic uses inexpensive LoRa radios as a long-range communication platform.
 Learn more at the official Meshtastic website.
 {{% /blocks/lead %}}
 
+{{% blocks/section %}}
+<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/getting-started/">
+  Join Iowa Mesh <i class="fas fa-tower-cell ms-2"></i>
+</a>
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="/docs/hardware/">
+  Learn More <i class="fab fa-book ms-2 "></i>
+</a>
+{{% /blocks/section %}}
+
 {{% blocks/section type="row" %}}
 
-<!-- {{% blocks/feature icon="fa-solid fa-tower-cell" title="Get connected." url="/docs/getting-started" %}} -->
-
-<a class="btn btn-lg btn-primary me-3 mb-4" href="docs/getting-started">
+{{% blocks/feature icon="fa-solid fa-tower-cell" title="Get connected." url="/docs/getting-started" %}}
 Setup your own node
-<i class="fas fa-tower-cell ms-2"></i>
-</a>
-
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-solid fa-rss" title="Stay informed."
