@@ -20,6 +20,7 @@ Learn more at the official Meshtastic website.
 <a class="btn btn-lg btn-primary me-3 mb-4" href="docs/getting-started">
 Setup your own node
 <i class="fas fa-tower-cell ms-2"></i>
+</a>
 
 {{% /blocks/feature %}}
 
