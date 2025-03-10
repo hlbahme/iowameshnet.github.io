@@ -13,19 +13,14 @@ Meshtastic uses inexpensive LoRa radios as a long-range communication platform.
 Learn more at the official Meshtastic website.
 {{% /blocks/lead %}}
 
-{{% blocks/section %}}
-We're working to set up a mesh network of solar-powered radio repeaters in Iowa.
-Users also contribute to the network using their personal Meshtastic devices.
-These radios communicate in the 915 MHz ISM band using the LoRa protocol.
-The radios mesh using the open-source Meshtastic software.
-Users can connect to these repeaters by Bluetooth if they’re close enough, or they can use their own handheld nodes, which will also act as repeaters.
-The messages hop from node to node, extending the reach of the network and ensuring everyone receives every message.
-{{% /blocks/section %}}
-
 {{% blocks/section type="row" %}}
 
-{{% blocks/feature icon="fa-solid fa-tower-cell" title="Get connected." url="/docs/getting-started" %}}
+<!-- {{% blocks/feature icon="fa-solid fa-tower-cell" title="Get connected." url="/docs/getting-started" %}} -->
+
+<a class="btn btn-lg btn-primary me-3 mb-4" href="docs/getting-started">
 Setup your own node
+<i class="fas fa-tower-cell ms-2"></i>
+
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-solid fa-rss" title="Stay informed."
