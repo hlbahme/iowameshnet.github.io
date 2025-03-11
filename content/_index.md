@@ -2,7 +2,7 @@
 title: Iowa Mesh
 ---
 
-{{< blocks/cover title="Welcome to Iowa Mesh" >}}
+{{< blocks/cover height="min" title="Welcome to Iowa Mesh" >}}
 <p class="lead mt-5">IowaMesh.net is a group working to build a mesh network of Meshtastic radios in the State of Iowa. This network acts like a statewide text messaging system, allowing people to communicate publicly or privately with anyone on the network.</p>
 {{< /blocks/cover >}}
 
