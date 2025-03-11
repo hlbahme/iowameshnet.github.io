@@ -12,14 +12,6 @@ These communicators can be linked to a phone via Bluetooth or Wi-Fi.
 Meshtastic uses inexpensive LoRa radios as a long-range communication platform.
 Learn more at the official Meshtastic website.
 
-<br>
-    <div class="container bg-light justify-content-center">
-        <div class="col-md-12 text-center">
-            <button type="button" class="btn btn-primary">Submit</button>
-            <button type="button" class="btn btn-warning">Cancel</button>
-        </div>
-    </div>
-
 <div class="row justify-content-center">
 <div class="col-md-12 text-center">
 <a class="btn btn-lg btn-success me-3 mb-4" href="/docs/getting-started/">Get connected <i class="fas fa-tower-cell ms-2"></i></a><a class="btn btn-lg btn-info me-3 mb-4" href="/docs/hardware/">Build the mesh <i class="fas fa-book ms-2"></i></a>
