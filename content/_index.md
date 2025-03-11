@@ -11,9 +11,19 @@ Meshtastic is an open-source, decentralized, off-grid mesh network. It's made up
 These communicators can be linked to a phone via Bluetooth or Wi-Fi.
 Meshtastic uses inexpensive LoRa radios as a long-range communication platform.
 Learn more at the official Meshtastic website.
+
+<br>
+<div class="row justify-content-center">
+<a class="btn btn-lg btn-success me-3 mb-4" href="/docs/getting-started/">
+  Get connected <i class="fas fa-tower-cell ms-2"></i>
+</a>
+<a class="btn btn-lg btn-info me-3 mb-4" href="/docs/hardware/">
+  Build the mesh <i class="fas fa-book ms-2"></i>
+</a>
+</div>
 {{% /blocks/lead %}}
 
-{{% blocks/section %}}
+<!-- {{% blocks/section %}}
 <a class="btn btn-lg btn-success me-3 mb-4" href="/docs/getting-started/">
   Get connected <i class="fas fa-tower-cell ms-2"></i>
 </a>
@@ -38,4 +48,4 @@ Follow our blog
 Connect your nodes to extend our network.
 {{% /blocks/feature %}}
 
-{{% /blocks/section %}}
+{{% /blocks/section %}} -->
