@@ -1,8 +1,7 @@
 ---
-date: 2025-03-18
+date: 2025-04-30
 title: Frequency Labs MeshAdv
 author: Calvin Jutting ([@KN0CTJ](calvin@iowamesh.net))
-draft: true
 ---
 
 ## MeshAdv Raspberry Pi Hat
