@@ -5,7 +5,7 @@ date: 2025-03-05
 
 [Amazon](https://a.co/d/47ZhrWK)
 
-{{< imgproc "Generic-Lora-Antenna.jpg" Resize "300x" />}}
+{{< imgproc "Generic-Lora-Antenna.jpg" Resize "300x" >}}
 
 $9.99 (Two Pack of Antennas)
 

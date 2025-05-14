@@ -16,4 +16,4 @@ The Heltec V3 is a compelling choice for those venturing into the world of Mesht
 
 While the Heltec V3 is an excellent starter board, it's worth noting that its power consumption is higher than others, such as RAK devices. This makes it less ideal for battery-powered or solar applications. However, for indoor or short-term use, this is rarely a significant drawback.
 
-{{< imgproc "heltec-v3.png" Resize "300x" />}}
+{{< imgproc "heltec-v3.png" Resize "300x" >}}

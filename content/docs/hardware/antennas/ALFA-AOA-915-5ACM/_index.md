@@ -5,7 +5,7 @@ date: 2025-03-05
 
 [Amazon](https://a.co/d/7hUrzN9)
 
-{{< imgproc "alfa-aoa-915.jpg" Resize "75x" />}}
+{{< imgproc "alfa-aoa-915.jpg" Resize "75x" >}}
 
 $16.97
 

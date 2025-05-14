@@ -35,15 +35,15 @@ Instructions are here:
 
 [Rokland Solar Enclosure Instructions](https://docs.rakwireless.com/product-categories/wisblock/rakbox-uo150x100x45-solar/installation-guide/)
 
-{{< imgproc "kit-parts.jpg" Resize "500x" />}}
+{{< imgproc "kit-parts.jpg" Resize "500x" >}}
 
 Without modules, there is a handy way of mounting the battery on the unused part of the solar plate. I’ve been using Gorilla double sided tape as it seems to adhere very well to these things. 
 
-{{< imgproc "battery-location.jpg" Resize "500x" />}}
+{{< imgproc "battery-location.jpg" Resize "500x" >}}
 
 With a pair of side cutters snip or another tool that will cut out the correct location cut out the sections to fit the board. This is covered in the instruction manual very clearly which ones to trim out. For the 19007 Rak base board, it will look something like this when you are done
 
-{{< imgproc "cut-for-rak-board.jpg" Resize "500x" />}}
+{{< imgproc "cut-for-rak-board.jpg" Resize "500x" >}}
 
 Using the supplied screws from the Rak starter kit put the baseboard on the solar plate. The USB port will face outwards from the edge of the plate. The nice thing is that it can only go one way based on the offset of the screw holes on the 19007.
 
@@ -56,17 +56,17 @@ The solar panel plug from the lid goes in to the left port (or smaller port) and
 When completed it will look a little something like this:
 
 
-{{< imgproc "assembled-with-solar.jpg" Resize "500x" />}}
+{{< imgproc "assembled-with-solar.jpg" Resize "500x" >}}
 
 The only thing left is to put the mount brackets on the rear and mount it in a location that works!
 
-{{< imgproc "rear-brackets.jpg" Resize "500x" />}}
+{{< imgproc "rear-brackets.jpg" Resize "500x" >}}
 
 
 As for the Antenna, this could be one of many things. I’ve standardized on the 8dbi Rokland Antenna. It has a good quality build and the kit comes with the mount to put up on a pole. I like this mount over the standard u bolts that other kits come with. I also can’t speak highly enough of the flat pigtails they make. They are meant to go into doors and windows, but I think they offer a nice level of protection over exposed cables, and at 18in are the right size to put the antenna right above the solar enclosure and keep everything nice and neat!
 
 
-{{< imgproc "flat-pigtail-antenna.jpg" Resize "500x" />}}
+{{< imgproc "flat-pigtail-antenna.jpg" Resize "500x" >}}
 
 
 

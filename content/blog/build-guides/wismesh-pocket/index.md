@@ -9,7 +9,7 @@ author: Bradly, Meshtastic 2DF2
 
 The WisMesh Pocket from RAKWireless is a great place to get started in the world of Meshtastic. Its robust design, long battery life, and ease of use make it the perfect first node for anyone, beginner or experienced radio operator. The unit has a high-quality screen, well-printed case, an independent on/off switch, and GPS receiver preinstalled.
 
-{{< imgproc "wismesh-pocket.jpg" Resize "250x" />}}
+{{< imgproc "wismesh-pocket.jpg" Resize "250x" >}}
 
 ### Initial impressions
 

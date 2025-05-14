@@ -10,7 +10,7 @@ author: Calvin Jutting ([@KN0CTJ](calvin@iowamesh.net))
 One of the things that need to be address up front as IowaMesh grows will be the appropriate use of the modes. Probably another controversial post much like the Ok to MQTT post, but it's a good chance for all of us to look at the choices we make and out it effects the Mesh
 
 So Lets get on with it!
-{{< imgproc "mr-t-fools.jpg" Resize "500x" />}}
+{{< imgproc "mr-t-fools.jpg" Resize "500x" >}}
 
 
 Selecting the appropriate device role is crucial for maintaining an efficient and reliable Meshtastic mesh network. With recent updates to Meshtastic, certain roles have been refined or deprecated to enhance network performance. For mobile nodes and specific stationary scenarios, Client and Client Mute modes are often the most suitable choices. Let's explore these roles and discuss the implications of misapplying routing roles.​
@@ -58,6 +58,6 @@ Improperly placed routers may consume message hops prematurely, preventing packe
 
 Sometimes it’s hard not to be that guy but maybe with a little bit of explanation we can help make sure the mesh stays working well for everyone. 
 
-{{< imgproc "Meshtastic-Router-Overdone.jpg" Resize "500x" />}}
+{{< imgproc "Meshtastic-Router-Overdone.jpg" Resize "500x" >}}
 
 So I might argue here that Client will be the choice of modes for most of us. I might even go as far as Client Mute especially if you are travling by plane. The traveler bridges larges area's for a while, but then breaks it again. Would love to hear your feedback as well! Hope this helps as we continue to grow the mesh here in Iowa!

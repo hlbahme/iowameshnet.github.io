@@ -17,4 +17,4 @@ Optional Display and GPS: The board supports an optional 1.14-inch TFT display a
 **Considerations**
 While the T114 excels in many areas, its optional components, like the display and GPS module, may require additional investment. However, this modularity allows users to tailor the board to their specific needs, which can be a significant advantage. The Heltec T114 is a versatile and energy-efficient board that caters to a wide range of use cases. Its combination of advanced features, low power consumption, and customizability makes it an excellent choice for both beginners and seasoned Meshtastic enthusiasts.
 
-{{< imgproc "t114.png" Resize "300x" />}}
+{{< imgproc "t114.png" Resize "300x" >}}

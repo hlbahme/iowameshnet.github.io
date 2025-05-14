@@ -5,7 +5,7 @@ date: 2025-03-06
 
 [Amazon](https://a.co/d/ji3CQV9)
 
-{{< imgproc "TE-ANT-916.jpg" Resize "300x" />}}
+{{< imgproc "TE-ANT-916.jpg" Resize "300x" >}}
 
 $21.99
 

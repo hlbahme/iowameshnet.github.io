@@ -55,10 +55,10 @@ It's quick, straightforward, and backed by excellent documentation.
 
    {{< blocks/section type="row" color="white" >}}
    {{% blocks/feature icon="fa-brands fa-android" title="Android" %}}
-   {{< imgproc "pairing-android.png" Resize "400x" />}}
+   {{< imgproc "pairing-android.png" Resize "400x" >}}
    {{% /blocks/feature %}}
    {{% blocks/feature icon="fa-brands fa-apple" title="Apple iOS" %}}
-   {{< imgproc "paring-iphone.png" Resize "400x" />}}
+   {{< imgproc "paring-iphone.png" Resize "400x" >}}
    {{% /blocks/feature %}}
    {{< /blocks/section >}}
 
@@ -66,10 +66,10 @@ It's quick, straightforward, and backed by excellent documentation.
 
    {{< blocks/section type="row" color="white" >}}
    {{% blocks/feature icon="fa-brands fa-android" title="Android" %}}
-   {{< imgproc "region-android.png" Resize "400x" />}}
+   {{< imgproc "region-android.png" Resize "400x" >}}
    {{% /blocks/feature %}}
    {{% blocks/feature icon="fa-brands fa-apple" title="Apple iOS" %}}
-   {{< imgproc "region-iphone.jpg" Resize "400x" />}}
+   {{< imgproc "region-iphone.jpg" Resize "400x" >}}
    {{% /blocks/feature %}}
    {{< /blocks/section >}}
 
@@ -79,10 +79,10 @@ It's quick, straightforward, and backed by excellent documentation.
 
    {{< blocks/section type="row" color="white" >}}
    {{% blocks/feature icon="fa-brands fa-android" title="Android" %}}
-   {{< imgproc "device-name-android.png" Resize "400x" />}}
+   {{< imgproc "device-name-android.png" Resize "400x" >}}
    {{% /blocks/feature %}}
    {{% blocks/feature icon="fa-brands fa-apple" title="Apple iOS" %}}
-   {{< imgproc "device-name.jpg" Resize "500x" />}}
+   {{< imgproc "device-name.jpg" Resize "500x" >}}
    {{% /blocks/feature %}}
    {{< /blocks/section >}}
 
@@ -98,10 +98,10 @@ It's quick, straightforward, and backed by excellent documentation.
 
    {{< blocks/section type="row" color="white" >}}
    {{% blocks/feature icon="fa-brands fa-android" title="Android" %}}
-   {{< imgproc "lora-config-android.png" Resize "400x" />}}
+   {{< imgproc "lora-config-android.png" Resize "400x" >}}
    {{% /blocks/feature %}}
    {{% blocks/feature icon="fa-brands fa-apple" title="Apple iOS" %}}
-   {{< imgproc "lora-wan-config.jpg" Resize "500x" />}}
+   {{< imgproc "lora-wan-config.jpg" Resize "500x" >}}
    {{% /blocks/feature %}}
    {{< /blocks/section >}}
 

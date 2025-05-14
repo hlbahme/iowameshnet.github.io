@@ -1,0 +1,21 @@
+{{ $original := .Page.Resources.GetMatch (printf "**%s*" (.Get 0)) }}
+{{ $command := .Get 1 | default "Resize" }}
+{{ $size := .Get 2 | default "800x" }}
+
+{{ $processed := $original }} <!-- Default to original image to prevent undefined variable -->
+
+{{ if eq $command "Resize" }}
+    {{ $processed = $original.Resize $size }}
+{{ else if eq $command "Fit" }}
+    {{ $processed = $original.Fit $size }}
+{{ else if eq $command "Fill" }}
+    {{ $processed = $original.Fill $size }}
+{{ else if eq $command "Crop" }}
+    {{ $processed = $original.Crop $size }}
+{{ else }}
+    {{ errorf "Invalid image processing command: Must be one of Resize, Fit, Fill, or Crop." }}
+{{ end }}
+
+<a href="{{ $original.RelPermalink }}">
+    <img src="{{ $processed.RelPermalink }}" alt="Clickable Image">
+</a>

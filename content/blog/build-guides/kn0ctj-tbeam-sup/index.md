@@ -23,37 +23,37 @@ Local Hardware Store; I used Theisens as they have bulk
 
 The base kit comes with the board, and antenna. I opted to add a different antenna. The stock antenna is not overly good according to the NanoVNA, but I find that the generic antenna from Amazon is spot on when it comes to the 915 mhz Lora that Meshtastic uses. 
 
-{{< imgproc "tbeam-kit.jpg" Resize "500x" />}}
+{{< imgproc "tbeam-kit.jpg" Resize "500x" >}}
 
 When printing the case I had to use the 13mm with nuts STL file to allow for the size of the Amazon antenna. Hats off to the creator for having multiple options for different antenna types without needing to import the STL and modify it yourself!
 
 Assembling the tbeam into the case is really straight forward and doesn’t require anything to be modified from the frame of the board. The only thing I ended up having to do is move the GPS module (which is held in by double sided tape). I found that not putting the antenna on while putting the two halves of the case together
 
-{{< imgproc "board-battery.jpg" Resize "300x" />}}
+{{< imgproc "board-battery.jpg" Resize "300x" >}}
 
 I opted to not do any of the insert types of the cases so I had to insert the M3 nuts into the bottom of the case before final assembly
 
 | Top View | Inserted |
 |--------- |--------- |
-| {{< imgproc "nuts-top.jpg" Resize "300x" />}} | {{< imgproc "nuts-inserted.jpg" Resize "300x" />}} |
+| {{< imgproc "nuts-top.jpg" Resize "300x" >}} | {{< imgproc "nuts-inserted.jpg" Resize "300x" >}} |
 
 
 Here is what some of the final assembly looks like:
 
 
-{{< imgproc "antenna-gps.jpg" Resize "300x" />}}
+{{< imgproc "antenna-gps.jpg" Resize "300x" >}}
 
 
-{{< imgproc "assembled-front.jpg" Resize "300x" />}}
+{{< imgproc "assembled-front.jpg" Resize "300x" >}}
 
 
-{{< imgproc "assembled-rear.jpg" Resize "300x" />}}
+{{< imgproc "assembled-rear.jpg" Resize "300x" >}}
 
 
 In anticipation of carrying around this node I also printed the bag clip which is working great!
 
 
-{{< imgproc "backpack-clip.jpg" Resize "400x" />}}
+{{< imgproc "backpack-clip.jpg" Resize "400x" >}}
 
 
 I’ve really enjoyed this case and putting this back together again! It really has been nice to experiment again with this board. The larger battery has been helpful to keep it running throughout a day without having to charge it

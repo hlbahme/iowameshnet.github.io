@@ -22,6 +22,6 @@ Please note that if you do not enable 'Ok to MQTT' or opt to enable 'Ingore MQTT
 
 Don't forget to enable uplink and downlink on the channels you want to participate for messages. The default channel will likely be needed to put position on the map.
 
-{{< imgproc "channel-links.jpg" Resize "300x" />}}
+{{< imgproc "channel-links.jpg" Resize "300x" >}}
 
 If you have questions please reach out to <info@iowamesh.net>

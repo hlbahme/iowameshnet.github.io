@@ -8,7 +8,7 @@ In this guide, I will go over the process of how I built my PoE-powered
 Meshtastic base station. This is an easy to build node that uses primairly
 official RAK components, so no soldering is required!
 
-{{< imgproc "poe-node.jpg" Resize "500x" />}}
+{{< imgproc "poe-node.jpg" Resize "500x" >}}
 
 
 ## Parts list
@@ -43,7 +43,6 @@ to my network using DHCP and uplink/downlink to the Iowa Mesh MQTT server.
 
 {{% imgproc "rak-board.jpg" Resize "500x" %}}
 The RAK board with Ethernet and PoE modules installed.
-{{% /imgproc %}}
 
 I highly recommend testing out the PoE functionality at this time, as
 there are reports of issues with this PoE module when paired with some switches
@@ -71,8 +70,6 @@ pressure sensor. I used some 3mm-0.5x6mm screws from Menards here. I placed
 electrical tape over the screws as I wasn't able to find flat head ones.
 
 {{% imgproc "mounting-plate.jpg" Resize "500x" %}}
-The 3D printed mounting plate installed.
-{{% /imgproc %}}
 
 Finally, I screwed the RAK board into the 3D-printed mounting plate and
 connected the LoRa and Bluetooth antenas, and the Ethernet cables to the
@@ -85,4 +82,4 @@ was afraid the PoE module would throw off the readings, but it doesn't seem to
 do so. If you wish to add enviornmental monitoring to your node, the
 official RAK sensor board would probably suffice.
 
-{{< imgproc "poe-node-inside.jpg" Resize "500x" />}}
+{{< imgproc "poe-node-inside.jpg" Resize "500x" >}}

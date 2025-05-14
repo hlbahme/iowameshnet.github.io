@@ -55,4 +55,4 @@ WisBlock Displays
 | RAK14000                                        | 2.13 inch E-Ink display | 212x104px  |
 
 
-{{< imgproc "RAKMeshtasticStarterKit.jpg" Resize "300x" />}}
+{{< imgproc "RAKMeshtasticStarterKit.jpg" Resize "300x" >}}

@@ -17,4 +17,4 @@ While the T-Beam Supreme is a robust device, its power consumption may be higher
 
 The LilyGO T-Beam Supreme is a powerful and versatile device that excels in Meshtastic networks. Its combination of advanced features, ease of use, and strong community support makes it a top choice for anyone looking to explore or expand their mesh networking capabilities.
 
-{{< imgproc "LILYGO-T-BEAM_Sup.jpg" Resize "300x" />}}
+{{< imgproc "LILYGO-T-BEAM_Sup.jpg" Resize "300x" >}}

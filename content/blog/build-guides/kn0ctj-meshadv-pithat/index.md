@@ -40,20 +40,20 @@ Since it was already mounted on the roof, retrieving it just to snap a few pictu
 
 The Frequency Labs MeshAdv Pi Hat is well-built and easy to assemble. Featuring the EBYTE E22 LoRa chip with 1 watt of power, it offers robust performance and supports additional sensor integration. There's a lot to appreciate—I was beyond impressed with its arrival!
 
-{{< imgproc "FL-MeshAdv.jpg" Resize "500x" />}}
+{{< imgproc "FL-MeshAdv.jpg" Resize "500x" >}}
 
 For this build, I chose to use a Raspberry Pi 3B+. Since I had one on hand and considered this a noble experiment, I preferred to test with it rather than risk potential issues with a Raspberry Pi 4 or 5. According to the documentation, most Raspberry Pi models should work. While I mentioned the Raspberry Pi 4 in my list above, I wanted to specifically call this out.
 
-{{< imgproc "full-kit.jpg" Resize "500x" />}}
+{{< imgproc "full-kit.jpg" Resize "500x" >}}
 
 I wanted an all-in-one build, so I chose the WaveShare PoE Hat with pass-through pins, allowing me to stack components for easy deployment in a case and out in the field. Another key advantage is remote SSH access, making it possible to update the Raspberry Pi’s configuration and software without having to climb repeatedly. While I have it at home now, I plan to mount it 150 feet in the air—so minimizing physical access requirements is a huge win!
 
 I used the taller mounts from the PoE Hat kit and put the screw side up. I had some other screw-on ends from another kit laying around so I was able to put the MeshAdv hat on top of the PoE hat, on top of the Raspberry Pi! 
 
-{{< imgproc "stacked-top.jpg" Resize "500x" />}}
+{{< imgproc "stacked-top.jpg" Resize "500x" >}}
 
 
-{{< imgproc "stacked-side.jpg" Resize "500x" />}}
+{{< imgproc "stacked-side.jpg" Resize "500x" >}}
 
 
 Once stacked (and while having the plate outside of the case) I took the 3d printed riser board we built for the Pi and zip tied it to the plate. You’ll see that more in the final build pictures
@@ -67,10 +67,10 @@ Once stacked (and while having the plate outside of the case) I took the 3d prin
 Since the plate was out of the case I drilled the hole in the top of the case for the bulkhead connector and the bottom for the ethernet pass through interface. This was done using a standard step bit that can be picked up at most hardware stores.
 
 
-{{< imgproc "case-bottom.jpg" Resize "300x" />}}
+{{< imgproc "case-bottom.jpg" Resize "300x" >}}
 
 
-{{< imgproc "case-top.jpg" Resize "300x" />}}
+{{< imgproc "case-top.jpg" Resize "300x" >}}
 
 
 The case is a bit tight so I would suggest waiting to put the bulkhead and ethernet.
@@ -79,31 +79,31 @@ The case is a bit tight so I would suggest waiting to put the bulkhead and ether
 Next assemble the raspberry pi to the riser plate that was 3d printed and then the riser to the actual box plate.
 
 
-{{< imgproc "tied-to-plate-1.jpg" Resize "500x" />}}
+{{< imgproc "tied-to-plate-1.jpg" Resize "500x" >}}
 
 
-{{< imgproc "tied-to-plate-2.jpg" Resize "500x" />}}
+{{< imgproc "tied-to-plate-2.jpg" Resize "500x" >}}
 
 
 Install the case plate and finish the install and then install up on the roof
 
 
-{{< imgproc "inside-assembled.jpg" Resize "400x" />}}
+{{< imgproc "inside-assembled.jpg" Resize "400x" >}}
 
 
-{{< imgproc "rear-assembled.jpg" Resize "400x" />}}
+{{< imgproc "rear-assembled.jpg" Resize "400x" >}}
 
 
 Here are the roof photos:
 
 
-{{< imgproc "front-mount.jpg" Resize "300x" />}}
+{{< imgproc "front-mount.jpg" Resize "300x" >}}
 
 
-{{< imgproc "case-arm.jpg" Resize "300x" />}}
+{{< imgproc "case-arm.jpg" Resize "300x" >}}
 
 
-{{< imgproc "antenna-mount.jpg" Resize "300x" />}}
+{{< imgproc "antenna-mount.jpg" Resize "300x" >}}
 
 The config is a little different to get started since it's running on top of a Raspberry Pi.
 

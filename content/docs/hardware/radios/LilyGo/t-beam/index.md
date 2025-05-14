@@ -2,4 +2,4 @@
 title: T-Beam
 ---
 
-{{< imgproc "Tbeam.jpg" Resize "300x" />}}
+{{< imgproc "Tbeam.jpg" Resize "300x" >}}

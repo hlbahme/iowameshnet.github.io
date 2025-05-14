@@ -41,11 +41,11 @@ Misc Screws from Local Hardware Store
 
 Assembly can be up to you, but I opted to lay out the box like this:
 
-{{< imgproc "IMG_0541.jpg" Resize "600x" />}}
+{{< imgproc "IMG_0541.jpg" Resize "400x" >}}
 
 I did cut off the connector from the solar panel and soldered in the RAK Solar Connectors to put on the board. Also used some solid double sided tape to make sure the wires were not moving around the case.
 
-{{< imgproc "IMG_0542.jpg" Resize "600x" />}}
+{{< imgproc "IMG_0542.jpg" Resize "400x" >}}
 
 With the solar panel added in and plumbed through the front of the case. Touch it up with a little bit of silicon to seal up the holes and were able to deploy this!
 

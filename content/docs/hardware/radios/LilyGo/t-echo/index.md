@@ -17,4 +17,4 @@ The LILYGO T-Echo is a fantastic all-in-one device for Meshtastic enthusiasts, o
 **Considerations**
 While the T-Echo is a robust device, its lack of Wi-Fi connectivity may limit its use in certain scenarios. Additionally, the E-Ink display, while energy-efficient, can be a bit finicky and may not update as quickly as OLED screens. Lastly, its price point is slightly higher than some alternatives, but the convenience and features it offers often justify the cost.
 
-{{< imgproc "T-ECHO_3.jpg" Resize "300x" />}}
+{{< imgproc "T-ECHO_3.jpg" Resize "300x" >}}
