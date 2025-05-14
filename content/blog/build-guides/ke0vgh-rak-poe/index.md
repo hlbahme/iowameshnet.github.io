@@ -42,7 +42,7 @@ then proceeded to flash Meshtastic on the board and configure it to connect
 to my network using DHCP and uplink/downlink to the Iowa Mesh MQTT server.
 
 {{% imgproc "rak-board.jpg" Resize "500x" %}}
-The RAK board with Ethernet and PoE modules installed.
+
 
 I highly recommend testing out the PoE functionality at this time, as
 there are reports of issues with this PoE module when paired with some switches

@@ -16,4 +16,4 @@ draft: true
 **This is a typical blog post that includes images.**
 
 {{< imgproc indoor_node Fill "600x600" >}}
-Fetch and scale an image in the upcoming Hugo 0.43.
+
