@@ -20,6 +20,15 @@
         {{ if $page.File -}}
         {{ $pages = (where $pages "Parent.File.UniqueID" "==" $page.File.UniqueID) -}}
         {{ end -}}
+        {{ $markers := slice }}
+        {{ range (where $pages ".Params.location" "!=" nil) }}
+        {{ with .Params.location }}
+        {{ $markers = $markers | append (printf "pin-s+000(%.3f,%.3f)" .longitude .latitude) }}
+        {{ end }}
+        {{ end }}
+        {{ $markerString := delimit $markers "," }}
+        <img
+            src="https://api.mapbox.com/styles/v1/mapbox/streets-v12/static/{{ $markerString }}/-93.40,42.07,6/800x620?access_token={{ site.Params.mapboxToken}}" />
         {{ if or $page.Params.no_list (eq (len $pages) 0) -}}
         {{/* If no_list is true or we don't have subpages we don't show a list of subpages */}}
         {{ else if $page.Params.simple_list -}}
